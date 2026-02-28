@@ -1,0 +1,1 @@
+C:\Users\missv\Projects\Qwasar\Marry_Me\target\debug\wedding_sim.exe: C:\Users\missv\Projects\Qwasar\Marry_Me\src\event.rs C:\Users\missv\Projects\Qwasar\Marry_Me\src\loader.rs C:\Users\missv\Projects\Qwasar\Marry_Me\src\main.rs

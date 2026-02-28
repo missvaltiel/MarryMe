@@ -1,0 +1,8 @@
+[
+  {"id": 1, "event_type": "brawl",       "priority": "high",   "description": "fight near the bar",  "timestamp": 2.0},
+  {"id": 2, "event_type": "bad_food",    "priority": "medium", "description": "cold soup",            "timestamp": 3.0},
+  {"id": 3, "event_type": "dirty_table", "priority": "low",    "description": "table 5 is a mess",   "timestamp": 4.0},
+  {"id": 4, "event_type": "brawl",       "priority": "high",   "description": "another fight",        "timestamp": 5.0},
+  {"id": 5, "event_type": "feeling_ill", "priority": "high",   "description": "guest fainted",        "timestamp": 5.5},
+  {"id": 6, "event_type": "disco_fire",  "priority": "high",   "description": "unknown chaos",        "timestamp": 6.0}
+]
