@@ -26,7 +26,7 @@ events.json    — sample input
 
 - [x] **Phase 1** — Data layer: Event model, JSON loading, validation
 - [x] **Phase 2** — Simulation clock: sleep until each event's timestamp, print RECEIVED
-- [ ] **Phase 3** — Routing: 3 team channels, coordinator dispatches by event_type
+- [x] **Phase 3** — Routing: 3 team channels, coordinator dispatches by event_type
 - [ ] **Phase 4** — Worker pool: 2 fixed workers per team, queue backpressure
 - [ ] **Phase 5** — Expiration: deadline check when worker pulls from queue
 - [ ] **Phase 6** — Metrics: Arc<Mutex<Metrics>> for received/handled/expired/stress
